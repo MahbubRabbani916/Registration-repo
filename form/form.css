@@ -1,0 +1,50 @@
+body {
+    background-image: url("f2.jpg");
+    background-size: cover; 
+    display: block;
+}
+.f{
+    width: 650px;
+    background: rgba(60,41,1,.4) ;
+    margin:70px auto;
+    padding:40px 20px ;
+    
+}
+.f h2{
+    color: white;
+    font-size: 50px;
+}
+.f input{
+    color: white;
+    display: block;
+    width: 100%;
+    font-size: 18px;
+  padding: 4px 0;
+ 
+    border: 1px solid rgb(96, 233, 42);
+    background: transparent;
+
+}
+.f label{
+    color: whitesmoke;
+    cursor: pointer;
+    padding: 5px 0;
+    display: block;
+    font-size: 20px;
+   
+    
+}
+.f input[type=submit]{
+    width: 200px;
+    margin-top: 15px;
+    display: block;
+    color: yellow;
+    
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+p{
+    color: yellowgreen;
+}
